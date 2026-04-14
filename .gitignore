@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Env
+.env
+
+# Logs
+*.log
+
+# Large files (VERY IMPORTANT)
+stgnn-docker.tar
+data/
+checkpoints/
